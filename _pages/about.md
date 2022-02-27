@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Scientist, <a href="Grab.com" target="_new">Grab</a>.
+subtitle: Data Scientist at <a href="https://grab.com" target="_new">Grab</a>.
 
 profile:
   align: right
