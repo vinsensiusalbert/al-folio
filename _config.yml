@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Albert Vinsensius # the website title (if blank, full name will be used instead)
 first_name: Albert
 middle_name: 
 last_name: Vinsensius
 email: hello@albertvinsensius.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  In all my work, I endeavour to make life better for everyone.
+  Personal page of Vinsensius Albert.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_new">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_new">GitHub Pages</a>.
@@ -83,7 +83,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_name:  # your blog must have a name for it to show up in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
