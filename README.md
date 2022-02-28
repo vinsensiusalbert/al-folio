@@ -1,3 +1,6 @@
+[![Deploy](https://github.com/vinsensiusalbert/vinsensiusalbert.github.io/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/vinsensiusalbert/vinsensiusalbert.github.io/actions/workflows/deploy.yml)
+[![pages-build-deployment](https://github.com/vinsensiusalbert/vinsensiusalbert.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/vinsensiusalbert/vinsensiusalbert.github.io/actions/workflows/pages/pages-build-deployment)
+
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
