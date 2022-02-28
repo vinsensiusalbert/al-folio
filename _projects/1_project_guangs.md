@@ -8,7 +8,7 @@ category: fun
 permalink: /projects/guangsfreshmart
 ---
 
-In the height of COVID-19 pandemic in March 2020, Singapore went into a lockdown (known as Circuit Breaker). Social interactions were limited, businesses are closed, and offices pivoted to "work from home". Essential services such as market and supermarkets remained open for business, but (access was limited)[https://www.straitstimes.com/multimedia/in-pictures-circuit-breaker-period-extended-with-stricter-rules-in-place] with capacity limitation and contract tracing fully implemented and enforced.
+In the height of COVID-19 pandemic in March 2020, Singapore went into a lockdown (known as Circuit Breaker). Social interactions were limited, businesses are closed, and offices pivoted to "work from home". Essential services such as market and supermarkets remained open for business, but [access was limited](https://www.straitstimes.com/multimedia/in-pictures-circuit-breaker-period-extended-with-stricter-rules-in-place) with capacity limitation and contract tracing fully implemented and enforced.
 
 Traditional market stalls suffered as foot traffic declined severely, while inventory still arrive but remain unsold, leading to food wastage. A market operator, Rachel Chia, had the idea to set up a e-commerce site to reach consumers at home in this time of need and difficulties.
 
