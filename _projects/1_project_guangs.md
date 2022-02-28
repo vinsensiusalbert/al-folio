@@ -5,7 +5,7 @@ description: A Shopify e-commerce site with custom integrations
 img: 
 importance: 1
 category: fun
-permalink: /project-guangsfreshmart
+permalink: /projects/guangsfreshmart
 ---
 
 In the height of COVID-19 pandemic in March 2020, Singapore went into a lockdown (known as Circuit Breaker). Social interactions were limited, businesses are closed, and offices pivoted to "work from home". Essential services such as market and supermarkets remained open for business, but (access was limited)[https://www.straitstimes.com/multimedia/in-pictures-circuit-breaker-period-extended-with-stricter-rules-in-place] with capacity limitation and contract tracing fully implemented and enforced.
