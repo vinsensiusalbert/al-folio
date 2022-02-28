@@ -2,7 +2,7 @@
 layout: page
 title: Guang's Fresh Mart
 description: A Shopify e-commerce site with custom integrations
-img: 
+img: assets/img/guangs-logo.jpg
 importance: 1
 category: fun
 permalink: /projects/guangsfreshmart
