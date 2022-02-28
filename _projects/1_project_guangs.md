@@ -12,7 +12,7 @@ In the height of COVID-19 pandemic in March 2020, Singapore went into a lockdown
 
 Traditional market stalls suffered as foot traffic declined severely, while inventory still arrive but remain unsold, leading to food wastage. A market operator, Rachel Chia, had the idea to set up a e-commerce site to reach consumers at home in this time of need and difficulties.
 
-From this, born [Guang's Fresh Mart](https://guangsfreshmart.com/) e-commerce page. I built the site on [Shopify](https://shopify.com.sg/) platform, and powered it with custom integration ranging from inventory tagging, invoicing for ground operations, Google calendar integration for deliveries, to Telegram bot integration for order notification and management.
+From this was born [Guang's Fresh Mart](https://guangsfreshmart.com/) e-commerce page. I built the site on [Shopify](https://shopify.com.sg/) platform, and powered it with custom integration ranging from inventory tagging, invoicing for ground operations, Google calendar integration for deliveries, to Telegram bot integration for order notification and management.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
