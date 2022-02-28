@@ -6,7 +6,7 @@ subtitle: Data Scientist at <a href="https://grab.com" target="_new">Grab</a>.
 
 profile:
   align: right
-  image: AMA_AD_522_profile.jpg
+  image: profile.jpg
   address: ~
 
 news: true  # includes a list of news items
