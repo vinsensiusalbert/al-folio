@@ -51,3 +51,16 @@ nav: true
 - Recipient of *NUS Undergraduate Scholarship*
 - Member of *Global Engineering Programme* (currently known as *E-Sholars Programme*)
 - Completed the *University Town Residential Programme* at Tembusu College
+
+***
+
+#### Skills
+
+**Languages**: English, Bahasa Indonesia
+
+**Core Competencies**: Operations Research, Optimisation, Mathematical Programming, Supply Chain Engineering
+
+**Programming Languages**: C, C++, C#, Python, Java
+
+**Software Development**: Object-Oriented Programming, Basic GCP/AWS, Docker, Gitlab
+
