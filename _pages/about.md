@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 _In all my work, I endeavour to make life better for everyone._
 
-I work as a Lead Data Scientist at Grab in Singapore, solving industry challenges in the field of supply chain and deliveries, driving Southeast Asia forward.
+I am currently a Data Science Manager at Grab in Singapore, solving industry challenges in the field of supply chain and deliveries, driving Southeast Asia forward.
 
 Prior, I received my PhD from the Department of Industrial Systems Engineering & Management (ISEM), National University of Singapore (NUS) as a recipient of the NUS Research Scholarship.
 My research interest is in the ﬁeld of supply chain, logistics, and optimisation, employing a combination of operations research and simulation methods.

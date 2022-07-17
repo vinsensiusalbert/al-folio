@@ -10,9 +10,9 @@ nav: true
 
 <div style="text-align: right;">2019 &#8211; Present</div>
 
-##### **Lead Data Scientist**
+##### **Data Science Manager**
 ###### *Grab*
-- Technical lead for Deliveries: GrabFood, GrabExpress, GrabMart
+- Team leader for Deliveries Supply Chain Optimisation
 
 <div style="text-align: right;">2013 &#8211; 2019</div>
 
