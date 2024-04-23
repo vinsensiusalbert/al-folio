@@ -14,9 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-_In all my work, I endeavour to make life better for everyone._
+_In all my work, I endeavour to create a meaningful impact._
 
-I am currently a Data Science Manager at Grab in Singapore, solving industry challenges in the field of supply chain and deliveries, driving Southeast Asia forward.
+Seasoned data scientist with a deep experience in optimisation, algorithm design, cross-functional collaboration, and strategic applications of data science solutions to drive business and operational innovation across multiple domains.
+
+I am currently a Principal Data Science at Grab in Singapore, solving industry challenges in the field of supply chain and deliveries, driving Southeast Asia forward, through scalable optimisation and machine learning techniques as well as hypothesis-driven experiments.
 
 Prior, I received my PhD from the Department of Industrial Systems Engineering & Management (ISEM), National University of Singapore (NUS) as a recipient of the NUS Research Scholarship.
 My research interest is in the ﬁeld of supply chain, logistics, and optimisation, employing a combination of operations research and simulation methods.

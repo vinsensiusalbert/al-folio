@@ -4,7 +4,7 @@ title: Sic Transit Gloria Mundi
 description: A self-hosted Ghost site
 img: 
 importance: 1
-category: fun
+category: draft
 permalink: /projects/sitransitgloriamundi
 ---
 
